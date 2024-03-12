@@ -153,3 +153,9 @@ wordOccurrence(text)
 # split(x)        | removes spaces in a string and returns a list of strings or words
 # dict            | dictionary
 # ...               get(key, value) - default: value = 0
+
+
+#update file name?
+#update file name in README?
+#make new file for tomorrows practice
+#update github README to say currently learning Python
