@@ -127,7 +127,7 @@ wordOccurrence(text)
 # \n              | new line
 # len             | length
 # in              |
-# not in          | 
+# not in          |
 # upper()         | toUpper()
 # lower()         | toLower()
 # replace('', '') | replaces part of a string
@@ -137,8 +137,8 @@ wordOccurrence(text)
 # and             | &&
 # print()         | console.log()
 # open()          | open a specific file
-# strip()         | 
-# rstrip()        | 
+# strip()         |
+# rstrip()        |
 # quit()          | terminate program
 # range(x)        | returns list of #'s that range from 0 to x - 1
 # List Methods    | x = list()
@@ -153,9 +153,3 @@ wordOccurrence(text)
 # split(x)        | removes spaces in a string and returns a list of strings or words
 # dict            | dictionary
 # ...               get(key, value) - default: value = 0
-
-
-#update file name?
-#update file name in README?
-#make new file for tomorrows practice
-#update github README to say currently learning Python
