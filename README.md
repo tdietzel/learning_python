@@ -65,12 +65,10 @@
   - Dev Team Scrum on *Discord* 👾
 
 ------------------------------
-# **`Day 3` | Functions & Modules ( Day 1 ) | `3/13/24`**
+# **`Day 3` | Testing with unittest | `3/13/24`**
 ------------------------------
 ### Daily Schedule
 
-- ##### `8:00 am - 9:00 am`
-  - ✍️LeetCode practice problems
 - ##### `9:00 am - 9:15 am`
   - Morning scrum on *Discord* 👾
 - ##### `9:15 am - 10:00 am`
@@ -88,33 +86,45 @@
   - 👨‍💻 learned about @classmethods, setUp & tearDown classes [test_day_three.py](https://github.com/tdietzel/learning_python/blob/main/test_day_three.py)
   - 📺 [**`Youtube`** Unit Testing w/ unittest](https://www.youtube.com/watch?v=6tNS--WetLI)
 - ##### `2:00 pm - 3:00 pm`
-
-
   - 📺 [**`Youtube`** Overview of Python basics](https://www.youtube.com/watch?v=kqtD5dpn9C8)
 - ##### `3:00 pm - 4:30 pm`
   - 👨‍💻 *Bugfixing* import statements
   - 💻 Updated Planning Log
 - ##### `4:30 pm - 5:00 pm`
   - Dev Team Scrum on *Discord* 👾
-
+- ##### `6:00 pm - 8:00 pm`
+  - 🚀 **Built Rock/Paper/Scissors project with tests**
+ 
 ------------------------------
-# **`Day 4` | Functions & Modules ( Day 2 ) | `3/14/24`**
+# **`Day 4` | Practice Projects | `3/14/24`**
 ------------------------------
 ### Daily Schedule
 
-- ##### `8:00 am - 8:30 am`
+- ##### `8:00 am - 9:00 am`
   - ✍️LeetCode practice problems
-- ##### `8:30 am - 9:00 am`
+  - Created a 👨‍💻 [day_four.py](https://github.com/tdietzel/learning_python/blob/main/day_four.py) file for practice
+- ##### `9:00 am - 9:15 am`
   - Morning scrum on *Discord* 👾
-- ##### `9:00 am - 12:00 pm`
-  - FILL IN
+- ##### `9:15 am - 10:00 am`
+  - Created a 👨‍💻 [test_blackjack.py](https://github.com/tdietzel/learning_python/blob/main/test_blackjack.py) file for testing  
+  - Created a 👨‍💻 [blackjack.py](https://github.com/tdietzel/learning_python/blob/main/blackjack.py) file for practice
+- ##### `10:00 am - 11:00 am`
+  - 🧪 `Passed` **Test #1** for Blackjack project [Blackjack Tests](https://github.com/tdietzel/learning_python/blob/main/test_blackjack.py)
+  - 🧪 `Passed` **Test #2** for Blackjack project [Blackjack Tests](https://github.com/tdietzel/learning_python/blob/main/test_blackjack.py)
+- ##### `11:00 am - 12:00 pm`
+  - 🚀 **Building BlackJack project**: *card_value & count_score*
 ```
                 1 Hour 🍱 LUNCH 🍱  1 Hour
 ```
-- ##### `1:00 pm - 4:30 pm`
-  - FILL IN
+- ##### `1:00 pm - 2:00 pm`
+  - 🚀 **Building BlackJack project:** *black_jack*
+- ##### `2:00 pm - 2:45 pm`
+  - 🚀 **Building BlackJack project**
+  - 💻 Updated Planning Log
 - ##### `2:45 pm - 3:00 pm`
-  - PDP Check in
+  - 💬🔊 `PDP Check in`
+- ##### `3:00 pm - 4:30 pm`
+  - FILL IN
 - ##### `4:30 pm - 5:00 pm`
   - Dev Team Scrum on *Discord* 👾
 

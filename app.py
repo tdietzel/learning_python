@@ -3,7 +3,7 @@ import random
 class RPSGame():
   def __init__(self):
     self.userInput = input("Make your choice: ").lower()
-    print(self.userInput)
+    print(self.userInput) #remove
     computerChoice = random.randint(1, 3)
     if computerChoice == 1:
       self.computerChoice = 'rock'
